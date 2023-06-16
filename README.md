@@ -2,6 +2,9 @@
 description: >-
   Explores who I am, where I will be going, and what life I would like to live,
   as an engineer, thrill-seeker, and entrepreneur.
+cover: >-
+  https://images.unsplash.com/photo-1454496522488-7a8e488e8606?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwzfHxtb3VudGFpbnN8ZW58MHx8fHwxNjg2OTA1MTM0fDA&ixlib=rb-4.0.3&q=85
+coverY: 0
 ---
 
 # 🌪 Welcome to Chiev's Symposium of Life and Startup :)
@@ -37,4 +40,3 @@ Email my via `zwan@andrew.cmu.edu` or `wanzp.chiver2016@gmail.com`
 Douyin: `Casvall`
 
 Wechat: \_\_chiev\_\_
-

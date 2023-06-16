@@ -1,5 +1,8 @@
 ---
 description: Quotes and Thoughts for Entrepreneurship Lifestyle.
+cover: >-
+  https://images.unsplash.com/photo-1565214975484-3cfa9e56f914?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw3fHxPY2VhbnxlbnwwfHx8fDE2ODY5MDUxODN8MA&ixlib=rb-4.0.3&q=85
+coverY: 0
 ---
 
 # 🏔 Startup Theories
