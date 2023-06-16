@@ -15,3 +15,7 @@ description: Citations and quotes from titans.
 ## 移动互联网十年（建议收藏） <a href="#activity-name" id="activity-name"></a>
 
 {% embed url="https://mp.weixin.qq.com/s/W_C-FLdNISpECS1war0MyA" %}
+
+## Allen在XR大道上的探索
+
+{% embed url="https://ps4zaq9q3u.feishu.cn/wiki/wikcnL00yQXFhAlalTxL0NZsU1d" %}
