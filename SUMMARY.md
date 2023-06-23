@@ -5,3 +5,4 @@
 * [🏔 Startup Theories](startup-theories.md)
 * [🏹 Recommended Readings](recommended-readings.md)
 * [⛰ Relationship](relationship.md)
+* [Life Philosophy](life-philosophy.md)
