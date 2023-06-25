@@ -5,7 +5,7 @@ cover: >-
 coverY: 0
 ---
 
-# Life Philosophy
+# 💭 Life Philosophy
 
 ## 拥有被讨厌的勇气
 
